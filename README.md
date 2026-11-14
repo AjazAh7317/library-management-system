@@ -94,13 +94,4 @@ python main.py
 python -m unittest discover -s tests -v
 ```
 
-## Notes and possible extensions
 
-This starter implementation uses in-memory storage, so data resets when the program exits. It is suitable for demonstrating the LLD assignment without requiring database setup.
-
-Possible extensions:
-- Persist records using SQLite or MySQL.
-- Add fine calculation for overdue returns.
-- Add book search and update/delete operations.
-- Add member borrowing limits and reservation/waitlist support.
-- Add a CLI menu or REST API.
