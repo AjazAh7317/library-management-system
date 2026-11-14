@@ -88,10 +88,4 @@ On Windows PowerShell, the same command works:
 python main.py
 ```
 
-## Run tests
-
-```bash
-python -m unittest discover -s tests -v
-```
-
 
